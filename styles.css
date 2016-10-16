@@ -1,13 +1,17 @@
-/* Your CSS goes here */
+/*Changing the background color of all of the form input boxes 
+and submit button to be yellow*/
 
 input {
     background-color: yellow;
 }
 
+/*Changing the text in the last name field to be bold by using 
+id selector.*/
 #lastname {
     font-weight: bold;
 }
 
+/*Setting a border around the instruction box by using id selector.*/
 #instruction {
     border: 2px solid black; 
     padding-right: 0;
